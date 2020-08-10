@@ -1,6 +1,6 @@
 
 
-### I'm Tomasz Nawrocki - aka [NavroO][website]
+### I'm Tomasz Nawrocki - aka <!--[NavroO][website]  -->
 
 Here are some ideas to get you started:
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 
-<!-- [website]: https://codeSTACKr.com -->
+<!-- [website]: https://codeSTACKr.com  -->
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 <!--[youtube]: https://youtube.com/codeSTACKr -->
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
