@@ -1,6 +1,6 @@
 
 
-### I'm Tomasz Nawrocki - aka <!--[NavroO][website]  -->
+### I'm Tomasz Nawrocki <!-- -aka [NavroO][website]  -->
 
 Here are some ideas to get you started:
 
