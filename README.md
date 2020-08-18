@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-My email: NavroO2020@outlook.com
+My email: tomeknawrocki2000@gmail.com
 
 
 
