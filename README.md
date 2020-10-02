@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 
 - HTML
 - CSS/SCSS/SASS
-- JavaScript (ES5 and ES6)
+- JavaScript
 - React
 - Node.JS
 - Python
-- GiT
-- Github
 - jQuery
+- Java
 
 
 
