@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - Java
 
 
+<img src="(https://github-readme-stats.vercel.app/api?NavroO=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
+
+
 
 ### Connect with me:
 
