@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on [Portoflio website](WiP).
 - 🌱 I’m currently learning more about React and Flutter.
 - 💬 Ask me about JavaScript or any tech related stuff.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 6 hours playing games everyday.
 
 <br/>
 <br/>
