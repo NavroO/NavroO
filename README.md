@@ -24,6 +24,9 @@
 - 💬 Ask me about JavaScript or any tech related stuff.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
+<br/>
+<br/>
+
 
 **Languages and Tools:**  
 
