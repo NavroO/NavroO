@@ -20,7 +20,7 @@
 
 
 - 🔭 I’m currently working on [Portoflio website](WiP).
-- 🌱 I’m currently learning more about React and Flutter.
+- 🌱 I’m currently learning more about React and TypeScript.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - ⚡ Fun fact: I spend almost 6 hours playing games everyday.
 
