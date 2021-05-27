@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on [Fav-Note](https://github.com/NavroO/Fav-Note).
+- 🔭 I’m currently working on [E-comm](https://github.com/NavroO/E-comm).
 - 🌱 I’m currently learning more about React and TypeScript.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - ⚡ Fun fact: I spend almost 6 hours playing games everyday.
