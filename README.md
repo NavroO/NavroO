@@ -1,6 +1,6 @@
 ## Hola, I'm [Tomasz Nawrocki!](https://navroportfolio.netlify.app) 👋
 
-- 🌱 I’m currently learning more about Golang and Fullstack application.
+- 🌱 I’m currently learning more about PHP.
 - 💬 Ask me about JavaScript or any tech related stuff.
 
 <br/>
