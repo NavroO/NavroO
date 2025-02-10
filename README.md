@@ -6,7 +6,7 @@ If you are here, please leave a ⭐ on my Gitbub! Shw your support!👋
 </p>
 
 <p align="center">
-I am Tom, I am 22 years old. I love working in a group, I feel good working with other people and thus gain new knowledge. I consider myself an organized person and I learn from my mistakes, which is why I try to solve the problems I encounter. I am an empathetic, sincere and honest person. I treat my work as a pleasure, not an obligation.
+I am Tom, I am 25 years old. I love working in a group, I feel good working with other people and thus gain new knowledge. I consider myself an organized person and I learn from my mistakes, which is why I try to solve the problems I encounter. I am an empathetic, sincere and honest person. I treat my work as a pleasure, not an obligation.
 </p>
 
 #### About me:
