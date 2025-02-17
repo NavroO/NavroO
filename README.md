@@ -12,7 +12,7 @@ I am Tom, I am 25 years old. I love working in a group, I feel good working with
 #### About me:
 
 - Personal project:
-- 🌱 I’m currently learning more about Fullstack with JavaScript and Golang.
+- 🌱 I’m currently learning more about Fullstack with TypeScript Java and Python.
 - 💬 How to reach me? tomeknawrocki2000@gmail.com or LinkedIn.
 
 ```
