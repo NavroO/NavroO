@@ -107,20 +107,8 @@ export default Profile;
 <a href="https://www.docker.com">
  <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
-<a href="https://nodejs.org">
- <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
 <a href="https://nestjs.com">
  <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-</a>
-<a href="https://www.typescriptlang.org">
- <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
- <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
-<a href="https://www.mysql.com">
- <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 <a href="https://www.postgresql.org">
  <img align="center" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -130,9 +118,6 @@ export default Profile;
 </a>
 <a href="https://restfulapi.net">
  <img align="center" src="https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=restapi&logoColor=white"/>
-</a>
-<a href="https://reactjs.org">
- <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </a>
 <a href="https://git-scm.com">
  <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
