@@ -135,8 +135,14 @@ export default Profile;
 
 
 #### Stay in touch:
+<a href="https://www.codewars.com/users/NavroO">
+ <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/tomasz-nawrocki-bab14218b/">
- <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pawan's github stats"/>
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/NavroO">
+ <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white"/>
 </a>
 <br/>
 
